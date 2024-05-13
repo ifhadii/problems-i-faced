@@ -1,3 +1,0 @@
-/home/fahad/Documents/Algorithms_For_Me/comptitve_programming/cmake-build-debug/CMakeFiles/comptitve_programming.dir
-/home/fahad/Documents/Algorithms_For_Me/comptitve_programming/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/fahad/Documents/Algorithms_For_Me/comptitve_programming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
